@@ -1,5 +1,7 @@
 # Hi there, I'm Lucas Andrade dos Santos! 👋
 
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasA51)](https://github.com/anuraghazra/github-readme-stats)
+
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
