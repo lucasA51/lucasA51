@@ -17,13 +17,13 @@ jobs:
         run: mkdir -p dist
 
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@master
         with:
           github_user_name: lucasA51
-          outputs: dist
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: List Files in dist
-        run: ls -R dist  # Debugging step to confirm files exist
+      - name: Check Generated Files
+        run: ls -lah dist  # Debugging step
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
