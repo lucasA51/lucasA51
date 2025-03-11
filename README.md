@@ -44,6 +44,7 @@ Feel free to reach out to me!
 
 <div style="display: flex; flex-direction: row;">
  <img height=200 class="img" src="https://github-readme-stats.vercel.app/api?username=lucasA51&show_icons=true&theme=dark#gh-dark-mode-only" />
+ <img height=200 class="img" src="https://github-readme-stats.vercel.app/api?username=lucasA51&show_icons=true&theme=default#gh-light-mode-only"/>
  <img height=200 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f" />
 </div>
 
