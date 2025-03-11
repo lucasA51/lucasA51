@@ -43,7 +43,7 @@ Feel free to reach out to me!
     <img style="max-width: 100%; height: 200px" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f" />
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lucasA51/lucasA51/blob/output/github-contribution-grid-snake.svg)
 
 Thanks for stopping by! Let's build something amazing together. 🚀
 
