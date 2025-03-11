@@ -42,11 +42,9 @@ Feel free to reach out to me!
 [![Lucas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lucasA51&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
 
-<div class='container'>
-<img style="height: 100%; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=lucasA51&show_icons=true&theme=dark#gh-dark-mode-only" />
-&nbsp;
-&nbsp;
-<img style="height: 100%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f" /></div>
+<div style="display: flex; flex-direction: row;">
+ <img height=200 class="img" src="https://github-readme-stats.vercel.app/api?username=lucasA51&show_icons=true&theme=dark#gh-dark-mode-only" />
+ <img height=200 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f" />
 </div>
 
 Thanks for stopping by! Let's build something amazing together. 🚀
