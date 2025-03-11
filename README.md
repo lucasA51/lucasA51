@@ -44,6 +44,8 @@ Feel free to reach out to me!
 </div>
 
 ![snake gif](https://github.com/lucasA51/lucasA51/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/lucasA51/output/main/github-contribution-grid-snake.svg)
+
 
 Thanks for stopping by! Let's build something amazing together. 🚀
 
