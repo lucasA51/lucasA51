@@ -43,8 +43,8 @@ Feel free to reach out to me!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: flex; flex-direction: row;">
- <img height=200 class="img" src="https://github-readme-stats.vercel.app/api?username=lucasA51&show_icons=true&theme=dark#gh-dark-mode-only" />
- <img height=200 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f" />
+ <img height=200 width=500 class="img" src="https://github-readme-stats.vercel.app/api?username=lucasA51&show_icons=true&theme=dark#gh-dark-mode-only" />
+ <img height=200 width=500 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasA51&layout=compact&theme=transparent&title_color=fefefe&text_color=9f9f9f" />
 </div>
 
 Thanks for stopping by! Let's build something amazing together. 🚀
