@@ -13,11 +13,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Create dist Directory
+        run: mkdir -p dist
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: lucasA51
           outputs: dist
+
+      - name: List Files in dist
+        run: ls -R dist  # Debugging step to confirm files exist
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
